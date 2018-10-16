@@ -1,0 +1,96 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial,sans-serif;
+}
+
+.btn {
+    width: 100%;
+    height: 3em;
+}
+
+.create {
+    border-radius: 5px;
+    border-style: none;
+    background-image: linear-gradient(to bottom, white, grey)
+}
+
+.enter {
+    width: 100%;
+    height: 2em;
+    border-radius: 5px;
+}
+
+footer {
+    border-top: 1px solid grey;
+    margin-top: 1em;
+}
+
+
+footer li {
+    display: inline;
+    padding-right: 1em;
+}
+
+footer ul {
+    text-align: center;
+}
+
+footer p{
+    font-size: .85em;
+}
+
+.pass {
+    display: inline;
+}
+
+.forgot {
+    padding-left: 4.5em;
+    font-size: .80em;
+    margin-left: 125px;
+    display: inline;
+}
+
+img {
+    width: 25%;
+}
+
+fieldset {
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    text-align: center;
+    padding: 0px;
+    font-size: .85em;
+    color: grey;
+}
+.logo {
+    text-align: center;
+}
+
+.main {
+    width: 50%;
+    margin: auto;
+    border: 1px solid lightgray;
+    padding: 1em;
+    border-radius: 5px
+}
+
+.sign {
+    background-image: linear-gradient(to bottom, yellow, goldenrod);
+    background-color: gold;
+    border-radius: 5px;
+    border-color: white;
+    border-style: none;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+
+
+
+
